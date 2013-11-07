@@ -1,0 +1,76 @@
+Since the application just maps the flat files,
+	you can browse either the source or the web app to view recipes.
+
+If you check out the source you will see a few folders listed,
+	in each folder there is a README.md that will briefly explain the topic.
+	This can also be view by going to /p/:topic
+		where topic is the folder you wish to view.
+
+In each folder there should be a number of recipes pertaining to each topic.
+
+
+Footer, etc., hard-coded into “./app.rb”
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+(“Let's stop using ‘markdown’ and use ‘md’ instead!)
+
+"*.md"
+
+./README.md
+
+./activity/README.md
+
+./asset_management/README.md
+./asset_management/sinatra_assetpack.md
+./asset_management/why-asset-management.md
+
+./databases/mongo.md
+./databases/README.md
+
+./deployment/apache_with_passenger.md
+./deployment/dreamhost_via_passenger.md
+./deployment/fastcgi.md
+./deployment/jruby.md
+./deployment/lighttpd_proxied_to_thin.md
+./deployment/nginx_proxied_to_unicorn.md
+./deployment/README.md
+
+./development/better_errors.md
+./development/bundler.md
+./development/i18n.md
+./development/README.md
+./development/shotgun.md
+
+./embed/event-machine.md
+./embed/README.md
+
+./helpers/partials.md
+./helpers/partials_using_the_sinatra-partial_gem.md
+./helpers/README.md
+
+./middleware/rack_auth_basic_and_digest.md
+./middleware/rack_commonlogger.md
+./middleware/rack_parser.md
+./middleware/README.md
+./middleware/share_session_with_memcached.md
+./middleware/twitter_authentication_with_omniauth.md
+
+./models/active_record.md
+./models/couchdb.md
+./models/data_mapper.md
+./models/mongo.md
+./models/ohm.md
+./models/README.md
+./models/sequel.md
+
+./testing/capybara_with_steak.md
+./testing/minitest.md
+./testing/README.md
+./testing/rspec.md
+./testing/test-unit.md
+./testing/webrat_with_cucumber.md
+
+./views/coffee_script.md
+./views/markdown.md
+./views/README.md
+./views/rss_feed_with_builder.md
