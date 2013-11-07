@@ -1,0 +1,21 @@
+sinatra-book
+
+written in Markdown
+	Perhaps uses GFM (GitHub Flavored Markdown)
+
+Separate files for “pages”, but they are all rendered onto one webpage
+
+Partial tree:
+├── book
+│   ├── Contributing.markdown
+│   ├── Deployment.markdown
+│   ├── Development.markdown
+│   ├── Getting_to_know_Sinatra.markdown
+│   ├── Helpers.markdown
+│   ├── Introduction.markdown
+│   ├── Middleware.markdown
+│   ├── Models.markdown
+│   ├── Organizing_your_application.markdown
+│   ├── Testing.markdown
+│   └── Views.markdown
+
