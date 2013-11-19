@@ -1,14 +1,14 @@
-Sinatra - About.pdf
-Sinatra - Configuring Settings.pdf
-Sinatra - Contribute.pdf
-Sinatra - Documentation.pdf
-Sinatra - Frequently Asked Questions.pdf
-Sinatra - Index.pdf
-Sinatra - README.pdf
-Sinatra - The Blog.pdf
-Sinatra - Using Extensions.pdf
-Sinatra - Writing Extensions.pdf
-Sinatra - Sinatra in the Wild.pdf
-Sinatra - Sinatra::Contrib.pdf
-Sinatra - Testing Sinatra with Rack::Test.pdf
+Sinatra - About
+Sinatra - Configuring Settings
+Sinatra - Contribute
+Sinatra - Documentation
+Sinatra - Frequently Asked Questions
+Sinatra - Index
+Sinatra - README
+Sinatra - The Blog
+Sinatra - Using Extensions
+Sinatra - Writing Extensions
+Sinatra - Sinatra in the Wild
+Sinatra - Sinatra::Contrib
+Sinatra - Testing Sinatra with Rack::Test
 
